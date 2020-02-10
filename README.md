@@ -2,7 +2,7 @@
 
 E-commerce website exclusive to San Francsco State University students.
 
-## Stack:
+## Stack
 * Nginx
 * MySQL
 * Node.js
